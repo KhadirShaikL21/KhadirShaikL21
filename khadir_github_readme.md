@@ -85,13 +85,23 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khadirshaik1903&show_icons=true&theme=github_dark" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadirshaik1903&layout=compact&theme=github_dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KhadirShaikL21&show_icons=true&theme=github_dark" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhadirShaikL21&layout=compact&theme=github_dark" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadirshaik1903&theme=highcontrast" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhadirShaikL21&theme=highcontrast" />
 </p>
+
+---
+
+### 🧩 Coding Profiles
+
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=khadeer1903&theme=dark)](https://leetcode.com/u/khadeer1903/)
+
+[![CodeChef Rating](https://badges.codechef.com/users/khadeer_1903)](https://www.codechef.com/users/khadeer_1903)
+
+[![GFG Badge](https://img.shields.io/badge/GFG-150%2B%20Problems-brightgreen)](https://www.geeksforgeeks.org/user/khadirshwt9a/)
 
 ---
 
