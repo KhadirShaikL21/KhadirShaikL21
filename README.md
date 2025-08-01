@@ -28,7 +28,7 @@
 
 ```text
 🛠 Languages:        Java (Advanced), JavaScript, Python, C
-🎯 Frontend:         React.js, Tailwind CSS, Bootstrap
+🎯 Frontend:         React.js, Tailwind CSS, Bootstrap,TypeScript
 ⚙️ Backend:          Node.js, Express.js, RESTful APIs, MVC
 🧩 Auth & Security:  JWT, OAuth 2.0, Google Login, Role-Based Auth
 📊 Databases:        MongoDB, MySQL
