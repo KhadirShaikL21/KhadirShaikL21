@@ -22,7 +22,7 @@
 <table align="center" width="80%">
   <tr align="center">
     <td width="33%">
-      <img src="https://raw.githubusercontent.com/Trophy-vector-images/Trophy-vector-images/main/Trophy-1.svg" width="100px" />
+      <img src="https://api.iconify.design/emojione-v1:military-medal.svg" width="100px" />
       <br />
       <strong>State Ranker</strong>
       <br />
@@ -36,11 +36,11 @@
       Architecting scalable <b>MERN Stack</b> applications.
     </td>
     <td width="33%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="100px" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="100px" />
       <br />
       <strong>DSA Enthusiast</strong>
       <br />
-      <b>250+</b> problems solved on LeetCode.
+      <b>450+</b> problems solved in <b>Java</b>.
     </td>
   </tr>
 </table>
@@ -67,7 +67,7 @@
       <h3 align="center">🛺 HopeAlong — Ride & Delivery Platform</h3>
       <p align="center">
         <a href="https://hopealong.vercel.app/" target="_blank">
-          <img src="https://raw.githubusercontent.com/KhadirShaikL21/KhadirShaikL21/main/assets/Hopealong.png" alt="HopeAlong Project Mockup" width="100%" />
+          <img src="https://raw.githubusercontent.com/KhadirShaikL21/KhadirShaikL21/main/assets/HopeAlong.png" alt="HopeAlong Project Mockup" width="100%" />
         </a>
       </p>
     </td>
@@ -91,7 +91,7 @@
       <h3 align="center">💬 Chatty — Real-Time Chat Application</h3>
       <p align="center">
         <a href="https://realtime-chatapp-2.onrender.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/KhadirShaikL21/KhadirShaikL21/main/assets/chatty.png" alt="Chatty Project Mockup" width="100%" />
+          <img src="https://raw.githubusercontent.com/KhadirShaikL21/KhadirShaikL21/main/assets/Chatty.png" alt="Chatty Project Mockup" width="100%" />
         </a>
       </p>
     </td>
@@ -112,15 +112,15 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:181717&height=150&section=header&text=Achievements&fontSize=40" />
-<table align="center" width="80%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:181717&height=150&section=header&text=Coding%20Achievements&fontSize=40" />
+<table align="center" width="90%">
   <tr align="center">
-    <td width="33%">
+    <td width="50%">
       <img src="https://leetcode-stats.vercel.app/api?username=khadeer1903&theme=dark&rank_icon=leetcode" alt="LeetCode Stats" />
     </td>
-    <td width="33%">
+    <td width="50%">
       <a href="https://www.codechef.com/users/khadeer_1903">
-        <img src="https://img.shields.io/badge/CodeChef-2%20Star%20(1400+)-blue?style=for-the-badge&logo=codechef&logoColor=white" />
+        <img src="https://img.shields.io/badge/CodeChef-3%20Star%20(1600+)-964B00?style=for-the-badge&logo=codechef&logoColor=white" />
       </a>
       <br/><br/>
       <a href="https://www.geeksforgeeks.org/user/khadirshwt9a/">
@@ -129,6 +129,13 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/KhadirShaikL21">
+    <img src="https://images.weserv.nl/?url=https://cdn.jsdelivr.net/gh/robert-stack/ろばと-スタック/img/github-achievements/pull-shark-default.png&w=150&h=150" />
+    <img src="https://images.weserv.nl/?url=https://cdn.jsdelivr.net/gh/robert-stack/ろばと-スタック/img/github-achievements/quickdraw-default.png&w=150&h=150" />
+  </a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:181717&height=150&section=header&text=GitHub%20Stats&fontSize=40" />
 <p align="center">
