@@ -2,16 +2,21 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Runs every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
+    # V-- ADD THIS PERMISSIONS BLOCK --V
+    permissions:
+      contents: write
+    # A-- THIS IS THE ONLY CHANGE --A
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
@@ -23,8 +28,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to repo
-        uses: crazy-max/ghaction-github-pages@v2.5.0
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
