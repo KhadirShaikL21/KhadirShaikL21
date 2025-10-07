@@ -97,7 +97,7 @@
     </td>
     <td width="50%" valign="top">
       <p>A low-latency, real-time chat application supporting private and group conversations. Features include typing indicators, persistent message history, and an architecture optimized for high concurrency.</p>
-      <p><b>🎯 Impact:</b> Engineered to handle over 100+ concurrent socket connections with minimal latency, ensuring a smooth user experience.</p>
+      <p><b>🎯 Impact:</b> Engineered to handle over 100 plus concurrent socket connections with minimal latency, ensuring a smooth user experience.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
