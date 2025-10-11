@@ -72,7 +72,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <p>A comprehensive MERN stack application designed to bridge the gap in intercity logistics and ride-sharing. It features dedicated interfaces for users , real-time trip matching, and secure authentication.</p>
+      <p>A comprehensive MERN stack application designed to bridge the gap in intercity logistics and ride-sharing. It features dedicated interfaces for users and captains, real-time trip matching, and secure authentication.</p>
       <p><b>🎯 Impact:</b> Reduced vehicle idle time by <b>75%</b> and improved delivery efficiency by <b>60%</b> in its simulated environment.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
